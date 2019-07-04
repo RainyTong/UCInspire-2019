@@ -20,6 +20,7 @@
 
 - Got task and goal: Temperature pipeline, from data cleaning to training and predicting.
 - Group meeting, learned others' progress.
+- Got UCI student ID card.
 - Today's progress:
   1. Wrote a crawler to automatically download grip files needed for five days, 6 files per day.  
   2. Used extractor to extract latitude, longitude and temperature into dictionary.  
@@ -29,6 +30,7 @@
 ### Wednesday 7.3
 
 - Group meeting.
+- Went to gym at afternoon.
 - Today's progress:
   1. Wrote a dumper to dump data from dictionary to TEMPERATURE database.  
   2. Got historical temperature data from Shu Li.
