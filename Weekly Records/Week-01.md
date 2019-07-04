@@ -1,6 +1,6 @@
 ## Week 01 Record
 
-#### Monday 7.1
+### Monday 7.1
 
 - UCInspire orientation
   - Campus tour.
@@ -16,7 +16,7 @@
 
 
 
-#### Tuesday 7.2
+### Tuesday 7.2
 
 - Got task and goal: Temperature pipeline, from data cleaning to training and predicting.
 - Group meeting, learned others' progress.
@@ -26,7 +26,7 @@
 
 
 
-#### Wednesday 7.3
+### Wednesday 7.3
 
 - Group meeting.
 - Today's progress:
