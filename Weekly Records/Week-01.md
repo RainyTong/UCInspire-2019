@@ -41,7 +41,7 @@ Todo:
 
 
 
-###Thursday 7.4 
+### Thursday 7.4 
 
 > Liberty day. 
 
