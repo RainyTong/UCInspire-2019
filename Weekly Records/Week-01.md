@@ -39,3 +39,23 @@ Todo:
 
 - Crawl data from Shu Li's website and dump into database.
 
+
+
+###Thursday 7.4 
+
+> Liberty day. 
+
+- Today's progress:
+  1. Read data and correspongding README file from NCEI website.
+- Happy beach day at Newport with group members, seeing fireworks.
+
+
+
+### Friday 7.5
+
+- Today's progress:
+  1. Decide to use .tif file to get annual temperature & moisture. 
+  2. Crawled all the .tif files and used gdal libratry to read data from them. 
+  3. Dumped all temperature and moisture from 2013 to 2019 into database. 
+  4. Labeled some tweet data but the database connection had some problems.
+
