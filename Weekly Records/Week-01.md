@@ -35,7 +35,7 @@
   1. Wrote a dumper to dump data from dictionary to TEMPERATURE database.  
   2. Got historical temperature data from Shu Li.
 
-Todo:
+To do:
 
 - Crawl data from Shu Li's website and dump into database.
 
