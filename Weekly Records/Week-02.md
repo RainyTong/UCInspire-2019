@@ -14,6 +14,8 @@
 - Refactor our code according to base module. 
 - Make a pull request for the refactored code.
 
+> Refactoring codes makes me feeling so good. :smiley:
+
 
 
 ### Wednesday 7.10
@@ -23,6 +25,8 @@
 - Make another pr.
 
 > :heart_eyes: Up to now, 489 lines of python code have been done. And they are refactored.
+>
+> Feeling good cause Captain Yicong teaches me lots of "code style".
 
 
 
