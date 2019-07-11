@@ -27,6 +27,8 @@
 > :heart_eyes: Up to now, 489 lines of python code have been done. And they are refactored.
 >
 > Feeling good cause Captain Yicong teaches me lots of "code style".
+>
+> Having some progress everyday and focusing on one thing every day is sooooo good. :heart:
 
 To do :
 
