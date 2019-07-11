@@ -59,3 +59,15 @@ To do:
   3. Dumped all temperature and moisture from 2013 to 2019 into database. 
   4. Labeled some tweet data but the database connection had some problems.
 
+
+
+### Saturday 7.6
+
+- Fun BBQ day at Zhikai Zhu's house with all the SUSTechers.
+
+
+
+### Sunday 7.7 
+
+- Staying at dorm all day.
+

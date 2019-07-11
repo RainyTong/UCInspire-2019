@@ -28,6 +28,10 @@
 >
 > Feeling good cause Captain Yicong teaches me lots of "code style".
 
+To do :
+
+- Learn to use AllenNLP and try to find sth interesting from text.
+
 
 
 ### Thursday 7.11
