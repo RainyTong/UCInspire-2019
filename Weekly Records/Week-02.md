@@ -38,9 +38,26 @@ To do :
 
 ### Thursday 7.11
 
+- This morning, I searched some information about Allennlp's function and got an understanding of how to use it. Then I showed a demo during the group meeting successfully and leader Yicong said it is useful. :wink:
+
+Progress:
+
+- Use Allennlp to extract emotion features from tweets text. 
+- Allennlp has pretrained models, input a text and output a list of emotion and a list of probabilities. 
+- Crawl 500 records from database and predict emotions from text, create two tables emotions & emo_in_rec in db. 
+- Dump records and corresponding emotions into database.
+
 
 
 ### Friday 7.12
+
+- Today's morning, I showed a demo of what I had done yesterday — extract emotion features from tweets and dump them into database. Very good :smiley:
+
+Progress:
+
+- Use Allennlp to extract Person X's intent, X's reaction and Person Y's reaction from text. 
+- Add reactions, intents, and 3 more tables in database and dumpe records into them. 
+- Label 300+ text records.
 
 
 
