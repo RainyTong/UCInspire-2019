@@ -61,3 +61,9 @@ Progress:
 
 
 
+> I have been here for two weeks. 
+>
+>For the first week, I was working on the temperature pipeline, to crawl temperature data from nota websites and dump the data into database. Specifically, since Tingxuan was taking part in the moisture pipeline, so we worked together to write crawler, extractor and dumper. We processed both historical data and recent data which updates everyday. 
+>
+>And for the second week, we continued to work on it because the data source of t & m was changing and then we refactored our code and made a pull request. Then I began to take part in the nlp part to precess the text from tweets. I learned how to use Allennlp, a tool for natual language processing and use it to extract emotion features from tweets. Specifically, it can use A to extract the intent of the subject in the sentence and the reactions of both subject and object. Then I crawl tweet records from database and extract these emotion features and then dump these features into database.
+
