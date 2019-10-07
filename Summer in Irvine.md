@@ -1,0 +1,15 @@
+### Summer in Irvine
+
+
+
+Time flies. Whenever I think of moments during my stay in Irvine, it is like that everything just happened yesterday. If using three words to summarize the experience during the whole summer, that must be concentration, peace and love.
+
+Like every other student taking part in a program abroad, I flew to Irvine in California, USA. I joined a research group under a professor’s supervision. My final goal is pretty clear and single -- to try my best to finish the tasks of the project, and then obtain a recommendation letter from the professor. It hears not that hard but all you need to do is concentration, dedicated myself to the work during the whole summer. Actually, I had been far away from concentration for a long time. The last time when I focus myself on only one thing is to prepare for “Gaokao”. After I started my university life, I’d never been fixing my focus on only one thing. Because university life is so colorful, so diverse. Various things fills my life. I need to take all the kinds of courses; I need to finish all the tasks from classes; I need to make friends and join activities during spare time; I need to improve my major skills in the lab... After all, I’ve never been an expert in handling so many things and playing in so many kinds of roles. So, leaving home and going abroad to take such a program is like a break for me, a rest in my life. All I need to do in this stop is to dedicated myself into one thing: do your project, do your research, and achieve your goal!
+
+That’s why I use “concentration” as the first word to summarize my summer in UCI. Even if I paid more effort in this program than that in my daily university life in SUSTech, I still feel relaxed and peaceful because of concentration.
+
+Not only concentration makes me peaceful, the environment in Irvine also takes me so much peace. In Irvine, sometimes I may feel lonely because there are always too few people walking on the road. In contrast to China, where I can always see full of people waking on the road or in the bus at any time, in Irvine you just can not meet that much people. I always walk alone in the road, feel like I’m the only one left in the world. I like this feel because I like peace. When I’m in peace, I can feel more and think more. I don’t like boisterous atmosphere.
+
+  The last word I would like to talk about is “love”. I love all the friends I meet in Irvine including my peers and my mentors. My ten weeks experience in Irvine is mainly made up of by them. And even when I think of them, I miss them much. During ten weeks in Irvine, I learned a lot from different people I meet. I still remember that in the first time I came into group and said hi to everyone, they welcome me and made me feel like home. They also helped me much in my project. We talked together, we ate together, we played video games together, and we watched fireworks on the sea together. We were like old friends for a long time. I want to appreciate this program again, that it takes me so much love and friendship which I will never forget.
+
+  A thousand words in one sentence: thank you, my ten-weeks summer in Irvine.
