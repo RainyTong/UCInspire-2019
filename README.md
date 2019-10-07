@@ -38,7 +38,7 @@ This is a repository for recording Yutong Wang's experience during the 10-week U
   - Build training and testing dataset(around 2000 images) for images from tweet, wildfire or not wildfire. Hugo and I manually labeled the images to two classes: wildfire or not wildfire.
   - Design a Convolutional Neural Network framework, basically follows the VGG CNN framework.
 
-  ```python
+```python
 self.conv1 = nn.Conv2d(n_channels, 4, 3, stride=1, padding=1)
 self.pool1 = nn.MaxPool2d(3, stride=2, padding=1)
 self.conv1_ = nn.Conv2d(4, 8, 3, stride=1, padding=1)
@@ -61,7 +61,7 @@ self.conv7 = nn.Conv2d(512, 512, 3, stride=1, padding=1)
 self.conv8 = nn.Conv2d(512, 512, 3, stride=1, padding=1)
 self.pool5 = nn.MaxPool2d(3, stride=2, padding=1)
 self.linear = nn.Linear(512, n_classes)
-  ```
+```
 
   
 
