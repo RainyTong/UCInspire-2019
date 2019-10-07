@@ -93,7 +93,7 @@ This is a repository for recording Yutong Wang's experience during the 10-week U
 
   ​	And the framework is as following:
 
-  ![image-TextCNN-framework](/Users/wangyutong/Repository/store/CS/%E5%A4%A7%E4%B8%89%E4%B8%8B/UCInspire-2019/Pictures/textcnn.png)
+  ![image-TextCNN-framework](./Pictures/textcnn.png)
 
   
 
